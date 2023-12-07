@@ -1,3 +1,5 @@
 # json-server
+# https://www.npmjs.com/package/json-server
 
-# Development
+# Run this command
+# json-server --watch db.json   
